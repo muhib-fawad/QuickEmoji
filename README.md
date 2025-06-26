@@ -7,3 +7,6 @@ Runs the trained emoji prediction model to take text input and output the predic
 
 ### training_code.py
 Prepares data, trains the emoji prediction model using GloVe embeddings and bidirectional LSTMs, and saves the model.
+
+### mapping.csv
+Contains the mapping between emojis and a number that the trained model outputs.
